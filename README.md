@@ -202,6 +202,6 @@ console.log("fin du chrono");
 </code></pre>
 
 <h2>Auteur</h2>
-<p><strong>Nom</strong> : [Votre nom]<br>
-<strong>Email</strong> : [Votre email]<br>
-<strong>GitHub</strong> : <a href="https://github.com/NICOLASR44">Votre profil GitHub</a></p>
+<p><strong>Nom</strong> : RINFERT<br>
+<strong>Email</strong> : nicolasrinfert@gmail.com<br>
+<strong>GitHub</strong> : <a href="https://github.com/NICOLASR44">Mon profil GitHub</a></p>
